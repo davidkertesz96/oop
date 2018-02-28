@@ -46,20 +46,20 @@ public class masodfok {
 		
 	    switch (megoldasok) {
 			case 2:
-	            System.out.println("2 megoldás");
+	            System.out.println("2 megoldas");
 				System.out.println("x1 = " + x1);
 				System.out.println("x2 = " + x2);
 				
 				break;
 	
 			case 1:
-	            System.out.println("1 megoldás");
+	            System.out.println("1 megoldas");
 				System.out.println("x = " + x1);
 				
 				break;
 	
 			default:
-				System.out.println("Nincs megoldás	");
+				System.out.println("nincs megoldas	");
 				break;
 		}
 		
