@@ -3,9 +3,7 @@ import java.util.Scanner;
 
 public class masodfok {
 
-	/**
-	 * @param args
-	 */
+
 	public static void main(String[] args) {
 		Scanner bemenet = new Scanner(System.in);
 		
